@@ -1,0 +1,13 @@
+NVIDIA Corporation - Company Overview
+
+NVIDIA is an American semiconductor company headquartered in Santa Clara, California. It was founded in 1993 by Jensen Huang, Chris Malachowsky and Curtis Priem. Jensen Huang is the CEO.
+
+Early history: NVIDIA became known for graphics processing units (GPUs) for PC gaming. It introduced the GeForce brand and marketed the GeForce 256 in 1999 as the world's first GPU.
+
+CUDA and AI: In 2006 NVIDIA launched CUDA, a programming platform that lets developers use GPUs for general-purpose computing. GPUs are very good at the parallel math used in deep learning, so NVIDIA hardware became the standard for training and running AI models. The CUDA software ecosystem is a major competitive advantage.
+
+Products: GeForce for gaming, RTX for ray tracing, data center accelerators such as the A100, H100 and the Blackwell generation, networking products from the Mellanox acquisition, DGX systems, and Jetson for edge computing and robotics. NVIDIA also supplies chips for automotive use through its DRIVE platform.
+
+Business: The data center segment, driven by demand for AI infrastructure from cloud providers and AI labs, is now the largest part of revenue and has surpassed gaming. NVIDIA is fabless: it designs chips and relies on TSMC to manufacture them.
+
+Risks: Export restrictions on advanced chips to China, customer concentration among large cloud companies, dependence on TSMC, and competition from AMD, Intel and custom chips from Google, Amazon and Microsoft.

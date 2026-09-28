@@ -1,0 +1,13 @@
+Amazon - Company Overview
+ 
+Amazon.com, Inc. is an American company headquartered in Seattle, Washington. Jeff Bezos founded it in 1994 as an online bookstore. Andy Jassy became CEO in 2021.
+ 
+Businesses: Amazon has three large areas: online and physical stores, Amazon Web Services (AWS) and advertising. It also runs Prime, Prime Video, Alexa devices, Kindle and Whole Foods Market.
+ 
+AWS: Launched in 2006, AWS is the largest cloud provider in the world. Although it is a smaller part of total revenue than retail, it produces most of Amazon's operating profit. Popular services include EC2, S3, Lambda and SageMaker.
+ 
+Logistics: Amazon built its own fulfillment centers, delivery network and air cargo operations. The Fulfillment by Amazon service lets third-party sellers use this network. Third-party sellers make up more than half of items sold.
+ 
+Culture: Amazon is known for its customer obsession, the flywheel growth model and the use of six-page written memos instead of slide presentations.
+ 
+India: Amazon India competes with Flipkart and is investing in logistics, AWS data centers and quick delivery.

@@ -1,0 +1,13 @@
+Apple Inc. - Company Overview
+
+Apple Inc. is an American technology company headquartered in Cupertino, California. It was founded on April 1, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne. Tim Cook became CEO in 2011 after Steve Jobs stepped down.
+
+Products: Apple's main products are the iPhone (launched 2007), Mac computers, iPad, Apple Watch, AirPods, Apple TV and the Vision Pro headset (released in 2024). The iPhone is the company's largest source of revenue.
+
+Services: Apple has grown a large services business that includes the App Store, iCloud, Apple Music, Apple TV+, Apple Pay and AppleCare. Services have higher profit margins than hardware and are a key part of Apple's growth strategy.
+
+Silicon and software: In 2020 Apple began moving Macs from Intel processors to its own Apple silicon chips, starting with the M1. Its operating systems include iOS, iPadOS, macOS, watchOS and visionOS. Apple emphasizes privacy and tight integration between hardware, software and services.
+
+Business model: Apple designs its products and relies on partners such as Foxconn for manufacturing, with a large part of assembly in China and a growing share in India and Vietnam. It sells through its own retail stores, online store, carriers and resellers.
+
+Key challenges: Regulatory pressure over App Store rules and commissions, competition from Android makers and Chinese brands, and supply chain concentration risk.

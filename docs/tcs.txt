@@ -1,0 +1,13 @@
+Tata Consultancy Services (TCS) - Company Overview
+ 
+Tata Consultancy Services is an Indian multinational IT services and consulting company headquartered in Mumbai. It is part of the Tata Group and was established in 1968. It is one of the largest IT services companies in the world by market value and one of the biggest private employers in India, with hundreds of thousands of staff.
+ 
+Services: TCS offers application development, maintenance, cloud migration, cybersecurity, data analytics, AI, enterprise software implementation and business process services. Major clients are in banking, insurance, retail, telecom, manufacturing and healthcare.
+ 
+Business model: Like other Indian IT firms, TCS uses a global delivery model where work is split between client sites and offshore centers in India. Revenue comes mainly from North America and Europe.
+ 
+Products: TCS BaNCS for banking and financial services, TCS iON for education and assessments, and the TCS Digital Platform. It also ran the Passport Seva project for the Government of India.
+ 
+Talent: TCS runs large campus hiring programs and the TCS NQT test that many Indian engineering students take for fresher roles. It has also invested in reskilling employees for AI and cloud work.
+ 
+Competitors: Infosys, Wipro, HCLTech, Accenture and Cognizant.
